@@ -18,3 +18,7 @@ _tdeps
 logs
 _build
 doc
+.local
+.devenv
+.direnv
+.vscode
